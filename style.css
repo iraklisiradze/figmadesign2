@@ -1,14 +1,23 @@
-.Cherries {
-  background-color: #2b3566;
-  width: 360px;
-  height: 246px;
-  border-radius: 15px;
-  padding: 20px 22px;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
+* h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  margin-bottom: 5px;
 }
-
+* p {
+  width: 144px;
+  height: 58px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+  margin-top: 5px;
+}
 .photo {
   width: 144px;
   height: 144px;
@@ -20,27 +29,91 @@
   border-radius: 50%;
 }
 .text {
-  width: 50%;
-  height: 100%;
+  widows: 150px;
+  height: 246px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
   padding-left: 5px;
-  padding: right 29px;
 }
 svg {
-  fill:red;
-  margin-top: 22px;
-  padding-left: 29px;
-
+  margin-bottom: 22px;
+  align-self: flex-end;
 }
-.Cherries2 {
+svg :hover {
+  stroke:#45D3C2;
+}
+.container {
+  width: 1400px;
+  height: 700px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Cherries {
   background-color: #2b3566;
-  width: 236px;
-  height: 386px;
-  border-radius: 15px;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
   padding: 20px 22px;
   box-sizing: border-box;
   display: flex;
   align-items: center;
-
+  margin: 20px;
+}
+.avocado {
+  background-color: #4c5371;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
+  padding: 20px 22px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.chilli {
+  background-color: #2b3566;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
+  padding: 20px 22px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.mandarin {
+  background-color: #ffa621;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
+  padding: 20px 22px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.blueberry {
+  background-color: #90d0cc;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
+  padding: 20px 22px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.banana {
+  background-color: #8f4528;
+  width: 360px;
+  height: 246px;
+  border-radius: 20px;
+  padding: 20px 22px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  margin: 20px;
 }
