@@ -121,11 +121,12 @@ svg :hover {
 /*first figma finish */
 .container2 {
   width: 1200px;
-  height: 700px;
+  height: 900px;
   box-sizing: border-box;
+  padding-left: 50px;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-end;
 }
 .Cherries2 {
   background-color: #2b3566;
@@ -140,7 +141,7 @@ svg :hover {
   margin: 20px;
 }
 .Doughnut {
-  background-color: #4C5371;
+  background-color: #4c5371;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -152,7 +153,7 @@ svg :hover {
   margin: 20px;
 }
 .Watermelon {
-  background-color: #90D0CC;
+  background-color: #90d0cc;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -164,7 +165,7 @@ svg :hover {
   margin: 20px;
 }
 .pepper {
-  background-color: #4C5371;
+  background-color: #4c5371;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -176,7 +177,7 @@ svg :hover {
   margin: 20px;
 }
 .Doughnut {
-  background-color: #4C5371;
+  background-color: #4c5371;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -188,7 +189,7 @@ svg :hover {
   margin: 20px;
 }
 .Cherries2 {
-  background-color: #4C5371;
+  background-color: #4c5371;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -200,7 +201,7 @@ svg :hover {
   margin: 20px;
 }
 .Cherries2 {
-  background-color: #4C5371;
+  background-color: #4c5371;
   width: 236px;
   height: 386px;
   border-radius: 20px;
