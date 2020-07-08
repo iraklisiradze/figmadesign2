@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "popins";
+  src:url (fonts/Popins-Regular)
+}
+
 * h1 {
   font-family: Roboto;
   font-style: normal;
@@ -10,7 +15,7 @@
 * p {
   width: 144px;
   height: 58px;
-  font-family: Roboto;
+  font-family: Popins;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
@@ -150,7 +155,7 @@ svg :hover {
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin: 20px;
+   margin: 20px;
 }
 .Watermelon {
   background-color: #90d0cc;
@@ -165,7 +170,7 @@ svg :hover {
   margin: 20px;
 }
 .pepper {
-  background-color: #4c5371;
+  background-color: #2C2233;
   width: 236px;
   height: 386px;
   border-radius: 20px;
@@ -188,30 +193,7 @@ svg :hover {
   flex-direction: column;
   margin: 20px;
 }
-.Cherries2 {
-  background-color: #4c5371;
-  width: 236px;
-  height: 386px;
-  border-radius: 20px;
-  padding: 20px 22px;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  margin: 20px;
-}
-.Cherries2 {
-  background-color: #4c5371;
-  width: 236px;
-  height: 386px;
-  border-radius: 20px;
-  padding: 20px 22px;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  margin: 20px;
-}
+
 a.Cherries2 {
   width: 54;
   height: 14;
