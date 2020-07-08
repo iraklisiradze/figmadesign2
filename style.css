@@ -131,7 +131,7 @@ svg :hover {
   padding-left: 50px;
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-end;
+  align-items: center;
 }
 .Cherries2 {
   background-color: #2b3566;
@@ -194,9 +194,18 @@ svg :hover {
   margin: 20px;
 }
 
-a.Cherries2 {
-  width: 54;
-  height: 14;
+.container2 :any-link {
+  width: 171px;
+  height: 32px;
+  box-sizing: border-box;
   font-size: 12px;
   line-height: 14px;
+  border-color:#2B3566;
+  border-radius: 16px;
+  color:white;
+  border: 1px solid #45D3C2;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 9px;
+  
 }
