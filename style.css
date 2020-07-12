@@ -49,6 +49,25 @@ svg {
 svg :hover {
   stroke: #45d3c2;
 }
+.Cherries svg:hover {
+  fill:#45D3C2 ;
+}
+.avocado svg:hover {
+  fill:#F7BDD1;
+}
+.chilli svg:hover {
+  fill:#DD1F32 ;
+}
+.mandarin svg:hover {
+  fill:#923916 ;
+}
+.blueberry svg:hover {
+  fill:#141626;
+}
+.banana svg:hover {
+  fill:#FDD91A ;
+}
+
 /* first figma start */
 .container {
   width: 1400px;
