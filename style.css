@@ -229,15 +229,15 @@ svg :hover {
   
 }
 
-.Cherries2 a {
+.Cherries2 a:hover {
   background-color:#45D3C2;
 }
-.Doughnut a {
+.Doughnut a:hover {
   background-color:#FFC2C7;
 }
-.Watermelon a {
+.Watermelon a:hover {
   background-color: #F8687F;
 }
-.pepper {
+.pepper a:hover {
   background-color: #744C71;
 }
